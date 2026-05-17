@@ -1,3 +1,7 @@
+<p style="color: red; font-weight: bold; font-size: 1.25em;">
+Do not spend any money on a bankrbot SWARM token.
+</p>
+
 # SwarmForge
 
 **A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.**
